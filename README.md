@@ -22,16 +22,6 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=makodoy&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=makodoy&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=makodoy&theme=transparent)
-
----
-
 ## Currently working on
 
 - Backend services and APIs  
