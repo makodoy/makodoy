@@ -2,11 +2,13 @@
 
  - Analysis & System Development student
  
- - Learning backend/frontend development and system integration on IoT devices, real-time systems and data processing  
+ - Learning backend/frontend development and system integration on IoT devices
+   
+ -  Real-time system monitoring and data processing
 
 ---
 
-## Technologies I'm learning
+## Technologies I'm Using
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -24,9 +26,10 @@
 
 ## Currently working on
 
-- Backend services and APIs  
-- IoT device communication
+- Backend services and APIs
 - Front-end styling and communication
+- IoT device communication
+- Docker Compose & Containers management
 - Real-time dashboards and monitoring tools  
 - Small projects to keep improving my development skills  
 
@@ -34,17 +37,3 @@
 
 Still learning and building things along the way.
 
-<!--
-**makodoy/makodoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
