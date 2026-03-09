@@ -24,9 +24,11 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=makodoy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makodoy)
-![GitHub Streak](https://streak-stats.demolab.com?user=makodoy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=makodoy&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makodoy&layout=compact&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=makodoy&theme=transparent)
 
 ---
 
