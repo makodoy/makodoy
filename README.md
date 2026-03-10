@@ -1,14 +1,10 @@
-# Hi, Makoto here!
+# Hi, Im Makoto! 
 
- - Analysis & System Development student
- 
- - Learning backend/frontend development and system integration on IoT devices
-   
- -  Real-time system monitoring and data processing
+ - Analysis & System Development student based on Brazil
 
 ---
 
-## Technologies I'm Using
+## Technologies I'm familiar with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -24,16 +20,18 @@
 
 ---
 
-## Currently working on
+## Currently working as an Intern:
 
-- Backend services and APIs
+- Backend data treatment/inspection
 - Front-end styling and communication
-- IoT device communication
+- IoT devices communication
 - Docker Compose & Containers management
-- Real-time dashboards and monitoring tools  
-- Small projects to keep improving my development skills  
+- Real-time dashboards and monitoring web apps
+
+## Currently working on my free-time:
+- Web-application for business managers to monitor, control and generate reports
 
 ---
 
-Still learning and building things along the way.
+Still learning and actively building, hoping to pin a lot of personal projects along the way.
 
